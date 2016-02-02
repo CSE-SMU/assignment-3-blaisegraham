@@ -1,0 +1,11 @@
+.wide {
+  width:100%;
+  height:50%;
+  background-image:url('http://previews.123rf.com/images/andreevarf/andreevarf1505/andreevarf150500438/40561700-light-gray-marble-with-green-veins-in-a-large-heavy-slab-Stock-Photo.jpg');
+  background-size:cover;
+}
+
+.wide img {
+  width:100%;
+  height:5%;
+}
